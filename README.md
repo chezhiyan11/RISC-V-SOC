@@ -4,7 +4,7 @@
 Understanding of Week 0 Video Lecture
 I have summarized my learning in the form of a mind map.
 This mind map highlights the design flow, open-source tools, and concepts introduced in Week 0.
-
+![Main map](https://github.com/chezhiyan11/RISC-V-SOC/blob/main/Week-0.png?raw=true)
 
 
 # Installation Guide:
